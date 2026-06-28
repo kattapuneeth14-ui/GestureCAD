@@ -21,14 +21,6 @@ Designed for creativity and productivity, GestureCAD transforms your webcam into
 
 ---
 
-## 🎬 Demo
-
-[![GestureCAD Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?logo=youtube)](demo.mp4)
-
-> **[demo.mp4](demo.mp4)** — See GestureCAD in action! Watch real-time hand gesture tracking, polygon drawing, and interactive shape manipulation.
-
----
-
 ## ✨ Key Features
 
 - 🎯 **Real-time Hand Tracking**: Identifies 21 key joint landmarks at 30+ FPS
@@ -362,8 +354,7 @@ MIT License Summary:
 **Kattapuneeth Vaddadi**
 
 - 🔗 GitHub: [@kattapuneeth14-ui](https://github.com/kattapuneeth14-ui)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Portfolio: [Your Portfolio URL](https://your-portfolio.com)
+- 📧 Email: [your-email@example.com](kattapuneeth14@gmail.com.com)
 
 ---
 
